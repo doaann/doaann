@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapers.com/images/hd/coding-inspirational-quote-pfuj3njhxxcd1ugk.jpg)
+
 <h1 align="center">Hi 👋, I'm Doğan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
